@@ -1,0 +1,9 @@
+{
+"version":"2.3.7",
+"md5":"8eb2acf2941bea79a10e56e1e973cf5c",
+"home_url":"Module_v2ray.asp",
+"title":"V2Ray",
+"description":"模块化的代理软件包",
+"changelog":"增加本地端口流量标记",
+"build_date":"2019-05-07_20:32:14"
+}
